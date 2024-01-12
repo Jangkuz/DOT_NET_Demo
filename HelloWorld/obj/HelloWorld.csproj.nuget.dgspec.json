@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Coding\\Dot_NET\\Demo\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
         "projectPath": "D:\\Coding\\Dot_NET\\Demo\\HelloWorld\\HelloWorld.csproj",
-        "packagesPath": "C:\\Users\\HP EliteBook\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\anhdl\\.nuget\\packages\\",
         "outputPath": "D:\\Coding\\Dot_NET\\Demo\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP EliteBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anhdl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
