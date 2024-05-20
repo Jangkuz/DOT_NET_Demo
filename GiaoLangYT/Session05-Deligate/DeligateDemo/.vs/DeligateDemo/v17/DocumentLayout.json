@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62D6EE-9357-46E9-A517-926A76830AE6}|PredicateFunc\\PredicateDelegate.csproj|d:\\coding\\dot_net\\giaolangyt\\session05-deligate\\deligatedemo\\predicatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F62D6EE-9357-46E9-A517-926A76830AE6}|PredicateFunc\\PredicateDelegate.csproj|solutionrelative:predicatefunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63D785E-7EA4-4E8B-86FD-B8AC916B12DE}|FuncDelegate\\FuncDelegate.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\funcdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63D785E-7EA4-4E8B-86FD-B8AC916B12DE}|FuncDelegate\\FuncDelegate.csproj|solutionrelative:funcdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74BE67B-26D8-4ED5-9822-27F04E1D5461}|ActionGenericDelegate\\ActionGenericDelegate.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\actiongenericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74BE67B-26D8-4ED5-9822-27F04E1D5461}|ActionGenericDelegate\\ActionGenericDelegate.csproj|solutionrelative:actiongenericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDC6BA5-BD50-48DD-A441-358044C7B86B}|ActionDelegate\\ActionDelegate.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\actiondelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFDC6BA5-BD50-48DD-A441-358044C7B86B}|ActionDelegate\\ActionDelegate.csproj|solutionrelative:actiondelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAE5F28-0E8A-4840-BE9D-400460FB995D}|DeligateDemo\\DeligateDemo.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\deligatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FAE5F28-0E8A-4840-BE9D-400460FB995D}|DeligateDemo\\DeligateDemo.csproj|solutionrelative:deligatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FAE5F28-0E8A-4840-BE9D-400460FB995D}|DeligateDemo\\DeligateDemo.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\deligatedemo\\deligatedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FAE5F28-0E8A-4840-BE9D-400460FB995D}|DeligateDemo\\DeligateDemo.csproj|solutionrelative:deligatedemo\\deligatedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C507D9B5-98D7-4CE9-BB18-FEFD9FE71D0F}|LambdaEpression\\LambdaEpression.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\lambdaepression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C507D9B5-98D7-4CE9-BB18-FEFD9FE71D0F}|LambdaEpression\\LambdaEpression.csproj|solutionrelative:lambdaepression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E124AA6-0E0C-437D-8A83-C1590EA43681}|AnonymousFunc\\AnonymousFunc.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\anonymousfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E124AA6-0E0C-437D-8A83-C1590EA43681}|AnonymousFunc\\AnonymousFunc.csproj|solutionrelative:anonymousfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E124AA6-0E0C-437D-8A83-C1590EA43681}|AnonymousFunc\\AnonymousFunc.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\anonymousfunc\\anonymousfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E124AA6-0E0C-437D-8A83-C1590EA43681}|AnonymousFunc\\AnonymousFunc.csproj|solutionrelative:anonymousfunc\\anonymousfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\lovestory\\ku-kia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|solutionrelative:lovestory\\ku-kia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\lovestory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|solutionrelative:lovestory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\lovestory\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|solutionrelative:lovestory\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\lovestory\\tui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E3D28-803F-4668-9084-CF37BAB8A19D}|LoveStory\\LoveStory.csproj|solutionrelative:lovestory\\tui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\PredicateFunc\\Program.cs",
+              "RelativeDocumentMoniker": "PredicateFunc\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\PredicateFunc\\Program.cs",
+              "RelativeToolTip": "PredicateFunc\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:59:52.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\FuncDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "FuncDelegate\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\FuncDelegate\\Program.cs",
+              "RelativeToolTip": "FuncDelegate\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:40:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\ActionGenericDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "ActionGenericDelegate\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\ActionGenericDelegate\\Program.cs",
+              "RelativeToolTip": "ActionGenericDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:16:35.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeligateDemo",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\DeligateDemo\\DeligateDemo.csproj",
+              "RelativeDocumentMoniker": "DeligateDemo\\DeligateDemo.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\DeligateDemo\\DeligateDemo.csproj",
+              "RelativeToolTip": "DeligateDemo\\DeligateDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T05:10:48.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\ActionDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "ActionDelegate\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\ActionDelegate\\Program.cs",
+              "RelativeToolTip": "ActionDelegate\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:04:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LambdaEpression\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaEpression\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LambdaEpression\\Program.cs",
+              "RelativeToolTip": "LambdaEpression\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:46:11.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\DeligateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DeligateDemo\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\DeligateDemo\\Program.cs",
+              "RelativeToolTip": "DeligateDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:00:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnonymousFunc.csproj",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\AnonymousFunc\\AnonymousFunc.csproj",
+              "RelativeDocumentMoniker": "AnonymousFunc\\AnonymousFunc.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\AnonymousFunc\\AnonymousFunc.csproj",
+              "RelativeToolTip": "AnonymousFunc\\AnonymousFunc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T09:46:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\AnonymousFunc\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousFunc\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\AnonymousFunc\\Program.cs",
+              "RelativeToolTip": "AnonymousFunc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:03:35.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ku-kia.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Ku-kia.cs",
+              "RelativeDocumentMoniker": "LoveStory\\Ku-kia.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Ku-kia.cs",
+              "RelativeToolTip": "LoveStory\\Ku-kia.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:31:01.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ban.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Ban.cs",
+              "RelativeDocumentMoniker": "LoveStory\\Ban.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Ban.cs",
+              "RelativeToolTip": "LoveStory\\Ban.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:30:49.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tui.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Tui.cs",
+              "RelativeDocumentMoniker": "LoveStory\\Tui.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Tui.cs",
+              "RelativeToolTip": "LoveStory\\Tui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:30:40.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Program.cs",
+              "RelativeDocumentMoniker": "LoveStory\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DeligateDemo\\LoveStory\\Program.cs",
+              "RelativeToolTip": "LoveStory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:30:13.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

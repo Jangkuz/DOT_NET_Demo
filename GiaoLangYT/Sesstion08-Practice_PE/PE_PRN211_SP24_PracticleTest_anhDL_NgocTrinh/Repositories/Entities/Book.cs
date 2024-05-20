@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Repositories.Entities
+{
+    public class Book
+    {
+        public int BookId { get; set; }
+        public string BookName { get; set; }
+        public string Description { get; set; }
+        public string PublicationDate { get; set; }
+        public int Quantity { get; set; }
+        public float Price { get; set; }
+        public string Author { get; set; }
+        public int BookCategoryId { get; set; }
+    }
+    //ENITTY CLASS MAP TRỰC TIẾP XUỐNG TABLE
+    //JAVA: POJO - PLAIN OLD JAVA OBJECT
+    //C#  : POCO - PLAIN OLD CSHARP OBJECT
+    //OBJECT THUẦN CHỦNG NGUYÊN BẢN CHỈ CHAU71 INFO VÀ GET/SET
+
+    //1. STYLE CODE FIRST, GÕ CLASS ÀNY XONG, DÙNG OR-MAPPING FRAMEWORK
+    //HIBERNATE, EF CORE - ENTITY FRAMEWORK CORE
+    //JAVE 
+    //  ĐỂ TỰ ĐỘNG TÃO RA DB VÀ TABLE
+
+    //2. STYLE DATABASE FIRST: KO CẦN GÕ CLASS NÀY, DUGN2 OR-MAPPING FRAMEWORK HIBERNATE, EF CORE SUY NGƯỢC TỪ TABLE REA CLASS - ENTITY
+
+    //BÀI THI PE, MÌNH DÙNG STYLE 2 - TƯC LÀ CÓ SẴN DB .SLQ => SUY REA CLASS
+    //
+}

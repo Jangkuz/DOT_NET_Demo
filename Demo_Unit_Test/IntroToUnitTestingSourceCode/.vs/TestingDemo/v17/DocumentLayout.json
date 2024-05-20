@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{454F60F7-5D47-4091-BCD2-DAF158B304E4}|DemoLibrary.Tests\\DemoLibrary.Tests.csproj|d:\\coding\\dot_net\\demo_unit_test\\introtounittestingsourcecode\\demolibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454F60F7-5D47-4091-BCD2-DAF158B304E4}|DemoLibrary.Tests\\DemoLibrary.Tests.csproj|solutionrelative:demolibrary.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\demolibrary\\examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\examples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\demolibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\demolibrary\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\demolibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2AFE62-ED15-41F4-ADD3-CC1131E4A602}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81D1D58-B533-446A-B2F9-8EB69DB2C248}|WinFormUI\\WinFormUI.csproj|D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81D1D58-B533-446A-B2F9-8EB69DB2C248}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Examples.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Examples.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Examples.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Examples.cs",
+              "RelativeToolTip": "DemoLibrary\\Examples.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:48.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\DataAccess.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\DataAccess.cs",
+              "RelativeToolTip": "DemoLibrary\\DataAccess.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Calculator.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Calculator.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Calculator.cs",
+              "RelativeToolTip": "DemoLibrary\\Calculator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Models\\PersonModel.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary\\Models\\PersonModel.cs",
+              "RelativeToolTip": "DemoLibrary\\Models\\PersonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:44.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\WinFormUI\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\WinFormUI\\Program.cs",
+              "RelativeToolTip": "WinFormUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:10:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "DemoLibrary.Tests\\CalculatorTests.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo_Unit_Test\\IntroToUnitTestingSourceCode\\DemoLibrary.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "DemoLibrary.Tests\\CalculatorTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T12:40:01.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

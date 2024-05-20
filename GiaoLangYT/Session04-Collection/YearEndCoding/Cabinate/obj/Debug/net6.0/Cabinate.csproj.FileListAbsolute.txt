@@ -1,0 +1,15 @@
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\bin\Debug\net6.0\Cabinate.deps.json
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\bin\Debug\net6.0\Cabinate.dll
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\bin\Debug\net6.0\Cabinate.pdb
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\bin\Debug\net6.0\Repositories.dll
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\bin\Debug\net6.0\Repositories.pdb
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.csproj.AssemblyReference.cache
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.AssemblyInfoInputs.cache
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.AssemblyInfo.cs
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.csproj.CoreCompileInputs.cache
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.csproj.Up2Date
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.dll
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\refint\Cabinate.dll
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\Cabinate.pdb
+D:\Coding\Dot_NET\GiaoLangYT\Session04-Collection\YearEndCoding\Cabinate\obj\Debug\net6.0\ref\Cabinate.dll

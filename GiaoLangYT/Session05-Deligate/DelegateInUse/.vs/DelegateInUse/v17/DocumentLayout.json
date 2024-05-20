@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14A1B90-9FFD-4042-9050-6A3B5301BEBF}|Numerology\\Numerology.csproj|d:\\coding\\dot_net\\giaolangyt\\session05-deligate\\delegateinuse\\numerology\\numberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14A1B90-9FFD-4042-9050-6A3B5301BEBF}|Numerology\\Numerology.csproj|solutionrelative:numerology\\numberservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14A1B90-9FFD-4042-9050-6A3B5301BEBF}|Numerology\\Numerology.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\numerology\\numerology.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B14A1B90-9FFD-4042-9050-6A3B5301BEBF}|Numerology\\Numerology.csproj|solutionrelative:numerology\\numerology.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11865E57-62C8-4438-9E25-3C8C9212B15E}|PassByAction\\PassByAction.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbyaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11865E57-62C8-4438-9E25-3C8C9212B15E}|PassByAction\\PassByAction.csproj|solutionrelative:passbyaction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11865E57-62C8-4438-9E25-3C8C9212B15E}|PassByAction\\PassByAction.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbyaction\\passbyaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11865E57-62C8-4438-9E25-3C8C9212B15E}|PassByAction\\PassByAction.csproj|solutionrelative:passbyaction\\passbyaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB9FBD-1773-4098-B4F9-85F360BB20C1}|PassByDelegateV2\\PassByDelegateV2.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbydelegatev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB9FBD-1773-4098-B4F9-85F360BB20C1}|PassByDelegateV2\\PassByDelegateV2.csproj|solutionrelative:passbydelegatev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB9FBD-1773-4098-B4F9-85F360BB20C1}|PassByDelegateV2\\PassByDelegateV2.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbydelegatev2\\passbydelegatev2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14BB9FBD-1773-4098-B4F9-85F360BB20C1}|PassByDelegateV2\\PassByDelegateV2.csproj|solutionrelative:passbydelegatev2\\passbydelegatev2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03590882-F3BB-47DB-A22B-B2F42C563C72}|PassByDelegateV1\\PassByDelegateV1.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbydelegatev1\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03590882-F3BB-47DB-A22B-B2F42C563C72}|PassByDelegateV1\\PassByDelegateV1.csproj|solutionrelative:passbydelegatev1\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03590882-F3BB-47DB-A22B-B2F42C563C72}|PassByDelegateV1\\PassByDelegateV1.csproj|D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\passbydelegatev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03590882-F3BB-47DB-A22B-B2F42C563C72}|PassByDelegateV1\\PassByDelegateV1.csproj|solutionrelative:passbydelegatev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numerology.csproj",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\Numerology\\Numerology.csproj",
+              "RelativeDocumentMoniker": "Numerology\\Numerology.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\Numerology\\Numerology.csproj",
+              "RelativeToolTip": "Numerology\\Numerology.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T03:51:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberServices.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\Numerology\\NumberServices.cs",
+              "RelativeDocumentMoniker": "Numerology\\NumberServices.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\Numerology\\NumberServices.cs",
+              "RelativeToolTip": "Numerology\\NumberServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:14:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PassByAction.csproj",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByAction\\PassByAction.csproj",
+              "RelativeDocumentMoniker": "PassByAction\\PassByAction.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByAction\\PassByAction.csproj",
+              "RelativeToolTip": "PassByAction\\PassByAction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T15:09:24.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByAction\\Program.cs",
+              "RelativeDocumentMoniker": "PassByAction\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByAction\\Program.cs",
+              "RelativeToolTip": "PassByAction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:33:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassByDelegateV2.csproj",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV2\\PassByDelegateV2.csproj",
+              "RelativeDocumentMoniker": "PassByDelegateV2\\PassByDelegateV2.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV2\\PassByDelegateV2.csproj",
+              "RelativeToolTip": "PassByDelegateV2\\PassByDelegateV2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T06:32:51.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV2\\Program.cs",
+              "RelativeDocumentMoniker": "PassByDelegateV2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV2\\Program.cs",
+              "RelativeToolTip": "PassByDelegateV2\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwFEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:21:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV1\\Songs.cs",
+              "RelativeDocumentMoniker": "PassByDelegateV1\\Songs.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV1\\Songs.cs",
+              "RelativeToolTip": "PassByDelegateV1\\Songs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:19:57.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV1\\Program.cs",
+              "RelativeDocumentMoniker": "PassByDelegateV1\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\GiaoLangYT\\Session05-Deligate\\DelegateInUse\\PassByDelegateV1\\Program.cs",
+              "RelativeToolTip": "PassByDelegateV1\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:22:55.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
