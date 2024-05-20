@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|d:\\coding\\dot_net\\demo\\pro_assignment\\manage_company\\viewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|solutionrelative:viewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\viewer\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|solutionrelative:viewer\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\req2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|solutionrelative:ouput\\req2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\req3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|solutionrelative:ouput\\req3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\model\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE05DC9D-D727-4DE5-90BD-7006C299386F}|Manage_Company.csproj|solutionrelative:model\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE1B3-5482-48E1-9B8A-F20318A65A22}|..\\ManageCompany.Tests\\ManageCompany.Tests.csproj|d:\\coding\\dot_net\\demo\\pro_assignment\\managecompany.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE1B3-5482-48E1-9B8A-F20318A65A22}|..\\ManageCompany.Tests\\ManageCompany.Tests.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\managecompany.tests\\developertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FE1B3-5482-48E1-9B8A-F20318A65A22}|..\\ManageCompany.Tests\\ManageCompany.Tests.csproj|D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\managecompany.tests\\managecompany.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\viewer\\Program.cs",
+              "RelativeDocumentMoniker": "viewer\\Program.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\viewer\\Program.cs",
+              "RelativeToolTip": "viewer\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwIcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:17.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\viewer\\Menu.cs",
+              "RelativeDocumentMoniker": "viewer\\Menu.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\viewer\\Menu.cs",
+              "RelativeToolTip": "viewer\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Req3.txt",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\Req3.txt",
+              "RelativeDocumentMoniker": "ouput\\Req3.txt",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\Req3.txt",
+              "RelativeToolTip": "ouput\\Req3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T09:20:13.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Req2.txt",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\Req2.txt",
+              "RelativeDocumentMoniker": "ouput\\Req2.txt",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\ouput\\Req2.txt",
+              "RelativeToolTip": "ouput\\Req2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T09:20:11.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\model\\Developer.cs",
+              "RelativeDocumentMoniker": "model\\Developer.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\Manage_Company\\model\\Developer.cs",
+              "RelativeToolTip": "model\\Developer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:20:04.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageCompany.Tests.csproj",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\ManageCompany.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ManageCompany.Tests\\ManageCompany.Tests.csproj",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\ManageCompany.Tests.csproj",
+              "RelativeToolTip": "..\\ManageCompany.Tests\\ManageCompany.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000778|",
+              "WhenOpened": "2024-01-19T02:54:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerTests.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\ControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\ManageCompany.Tests\\ControllerTests.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\ControllerTests.cs",
+              "RelativeToolTip": "..\\ManageCompany.Tests\\ControllerTests.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T20:06:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeveloperTests.cs",
+              "DocumentMoniker": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\DeveloperTests.cs",
+              "RelativeDocumentMoniker": "..\\ManageCompany.Tests\\DeveloperTests.cs",
+              "ToolTip": "D:\\Coding\\Dot_NET\\Demo\\PRO_Assignment\\ManageCompany.Tests\\DeveloperTests.cs",
+              "RelativeToolTip": "..\\ManageCompany.Tests\\DeveloperTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T16:36:52.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

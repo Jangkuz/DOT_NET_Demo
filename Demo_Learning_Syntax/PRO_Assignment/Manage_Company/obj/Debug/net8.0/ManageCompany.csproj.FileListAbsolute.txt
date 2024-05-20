@@ -1,0 +1,15 @@
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\bin\Debug\net8.0\ManageCompany.exe
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\bin\Debug\net8.0\ManageCompany.deps.json
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\bin\Debug\net8.0\ManageCompany.runtimeconfig.json
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\bin\Debug\net8.0\ManageCompany.dll
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\bin\Debug\net8.0\ManageCompany.pdb
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.AssemblyInfoInputs.cache
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.AssemblyInfo.cs
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.csproj.CoreCompileInputs.cache
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.sourcelink.json
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.dll
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\refint\ManageCompany.dll
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.pdb
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ManageCompany.genruntimeconfig.cache
+D:\Coding\Dot_NET\Demo\PRO_Assignment\Manage_Company\obj\Debug\net8.0\ref\ManageCompany.dll
